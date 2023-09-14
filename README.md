@@ -1,5 +1,5 @@
-# COMP9337 Securing Wireless Networks 
-# Lab 1
+# Securing Wireless Networks 
+
 # Author
 Jiajin Chen; Haowen Zhao
 
